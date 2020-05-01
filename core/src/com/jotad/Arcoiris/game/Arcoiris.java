@@ -1,4 +1,4 @@
-package com.jotad.coinman.game;
+package com.jotad.Arcoiris.game;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
@@ -19,7 +19,7 @@ import javax.swing.Renderer;
 
 import static com.badlogic.gdx.math.Intersector.*;
 
-public class CoinMan extends ApplicationAdapter {
+public class Arcoiris extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture background;
 	Texture[] unicorn;
